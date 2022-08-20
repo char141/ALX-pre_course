@@ -1,3 +1,2 @@
-\echo \"School\" > school
-echo echo "School" > school
-echo echo "ALX"
+echo "ALX" 
+#!/bin/bash
