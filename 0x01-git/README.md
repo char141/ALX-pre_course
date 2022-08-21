@@ -1,1 +1,1 @@
-A non-empty readme
+Algorithms are not similar to pseudocodes
