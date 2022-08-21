@@ -1,1 +1,1 @@
-My first readme
+Algorithms are not similar to pseudocodes
